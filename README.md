@@ -1,4 +1,4 @@
-* Descrição do projeto
+* Descrição do projeto =
 Projeto desenvolvido para o desafio final do curso de iniciante a programação da Alura.
 O trabalho proposto foi o do desenvolvimento de um decodificador e codificador de texto seguindo as seguintes regras:
 A letra "e" é convertida para "enter"
